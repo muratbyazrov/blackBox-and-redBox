@@ -1,0 +1,32 @@
+.main-window {
+    position: relative;
+    background-color: green;
+    width: 500px;
+    min-height: 500px;
+    margin: auto;
+}
+
+.user-box {
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    bottom: 0px;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+}
+
+.elina-box {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    bottom: 0px;
+    position: absolute;
+    top: 0px;
+    left:70%
+}
+
+.counter {
+    text-align: center;
+    color:darkmagenta;
+}
